@@ -1,0 +1,3 @@
+!pip install biosppy
+!pip install pyhrv
+!pip install opensignalsreader
